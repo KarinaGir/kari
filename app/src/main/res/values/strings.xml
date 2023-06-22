@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="vvodlogin">Логин</string>
+    <string name="vvodpassword">Пароль</string>
+    <string name="voity">Войти</string>
+    <string name="volonteer">Участник</string>
+    <string name="work">Сотрудник</string>
+    <string name="mysob">Мои события</string>
+    <string name="zaplan">Запланированные  мероприятия</string>
+    <string name="last">Прошедшие мероприятия</string>
+    <string name="mybal">Мой рейтинг</string>
+    <string name="data">Календарь мероприятий</string>
+    <string name="take">Подать заявку на участие</string>
+    <string name="key">Ключ</string>
+    <string name="meropti">Мои мероприятия</string>
+    <string name="otchety">Отчеты</string>
+    <string name="zayavki">Заявки</string>
+    <string name="kalendarvtro">Календарь мероприятий</string>
+    <string name="sozdat">Создать мероприятие</string>
+    <string name="regidtr">Зарегистрироваться</string>
+    <string name="soxr">Сохранить</string>
+    <string name="back">Назад</string>
+    <string name="namemerop">Название мероприятия</string>
+    <string name="mesto">Место проведения</string>
+    <string name="main">Ответственный</string>
+</resources>
